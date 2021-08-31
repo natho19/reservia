@@ -3,7 +3,7 @@ Projet 2 du parcours développeur web d'OpenClassrooms. L'objectif est d'intégr
 
 ![maquette web reservia](./images/desktop.png)
 
-## Cahier des charges
+## Résultats attendus
 - L'integration doit se faire sans framework ou pré-compilateur CSS (SASS par exemple).
 - Le champ de recherche doit être un champ de saisie, dont le texte peut être édité. La fonctionnalité de recherche ne doit pas être implémenté pour autant.
 - Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides.
