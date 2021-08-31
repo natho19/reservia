@@ -24,7 +24,7 @@ a:hover {
     transition: all .3s;
 }
 
-h1, h2, h3, p {
+h1, h2, h3, h4, p {
     margin-top: 0;
     margin-bottom: .9em;
     line-height: 1.3em;
@@ -45,12 +45,12 @@ strong {
     margin-bottom: 25px;
 }
 
-.title h1,
+.title h2,
 .title i {
     font-size: 22px;
 }
 
-.title h1 {
+.title h2 {
     margin-bottom: 0;
 }
 
@@ -362,6 +362,7 @@ button {
 
 .card-text {
     font-size: 14px;
+    font-weight: normal;
     margin-bottom: 5px;
 }
 
